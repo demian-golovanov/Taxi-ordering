@@ -16,7 +16,7 @@
 
 Файл с данными:
 
-`/datasets/taxi.csv`
+`taxi.csv`
 
 Признаки:
 
